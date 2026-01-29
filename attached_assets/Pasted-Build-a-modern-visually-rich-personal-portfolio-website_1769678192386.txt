@@ -1,0 +1,120 @@
+Build a modern, visually rich personal portfolio website inspired by the design style and layout of this reference portfolio:
+https://thilak-r.github.io/portfolio/
+
+The website should closely follow the same structure, section flow, smooth scrolling behavior, clean animations, and professional aesthetic, but with ORIGINAL styling and content tailored to MY profile below.
+
+TECH STACK REQUIREMENTS:
+- Next.js (App Router)
+- React + TypeScript
+- Modern CSS (CSS Modules or global CSS)
+- Subtle animations (Framer Motion or CSS animations)
+- Responsive for desktop and mobile
+- Clean, deploy-ready code
+
+DESIGN STYLE:
+- Dark theme with neon / accent highlights (professional Gen-Z style)
+- Smooth section transitions and scroll-based animations
+- Minimal but elegant UI
+- No clutter, no excessive 3D
+- Similar section spacing and typography hierarchy as the reference site
+- Sticky or smooth navbar like the reference
+
+PAGES / SECTIONS REQUIRED:
+1. Home (Hero)
+2. About
+3. Skills
+4. Experience
+5. Projects
+6. Education
+7. Certifications
+8. Contact
+
+CONTENT (USE THIS EXACT INFORMATION):
+
+NAME:
+Rachana N V
+
+ROLE / TAGLINE:
+Aspiring Software Engineer | CSE (AI & ML) Student
+
+OBJECTIVE / ABOUT:
+I am an aspiring software engineer pursuing a Bachelor’s degree in Computer Science with a specialization in Artificial Intelligence & Machine Learning at Maharaja Institute of Technology Mysore. I am passionate about applying programming, Data Structures & Algorithms, and AI/ML to solve real-world challenges. My goal is to continuously learn, build impactful software solutions, and grow as a professional in software development and artificial intelligence.
+
+EDUCATION:
+Maharaja Institute of Technology Mysore  
+Bachelor of Engineering – Computer Science (AI & ML)  
+2023 – Present  
+CGPA: 7.4
+
+SKILLS:
+Programming Languages:
+- C
+- Java
+- Python
+
+Tools & Frameworks:
+- Flutter
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+Core Concepts:
+- Object-Oriented Programming (OOPS)
+- Data Structures & Algorithms (DSA)
+- Artificial Intelligence
+
+Databases:
+- MongoDB
+- DBMS
+
+Soft Skills:
+- Strategic Planning
+- Teamwork
+- Presentation Design
+
+EXPERIENCE:
+App Development Intern – RunShaw Technologies
+- Completed an internship focused on mobile application development using Flutter
+- Designed user interfaces and implemented widgets
+- Integrated APIs and learned real-world application workflows
+
+PROJECTS:
+1. Titanic Survival Prediction (AI/ML)
+   - Built a machine learning model using the Titanic dataset
+   - Performed data preprocessing and classification
+   - Achieved accurate survival predictions
+
+2. Relay Control System using ESP8266
+   - Developed a microcontroller-based relay control system
+   - Enabled efficient switching of electrical devices
+   - Implemented real-time hardware-level automation
+
+CERTIFICATIONS:
+- Git & GitHub Bootcamp – Completion Certificate
+- Dive into Agentic AI – 1-Day Workshop
+- Prompt Wars – Event Participation Certificate
+- GenAI Powered Data Analytics Job Simulation – Forage (TATA)
+- Data Analytics Essentials – Cisco Networking Academy
+- HP LIFE – Data Science & Analytics
+- HP LIFE – AI for Beginners
+- Mobile App Development Internship – RunShaw Technologies
+
+ACTIVITIES:
+- Git & GitHub Bootcamp (MIT Mysore, Dept. of CSE–AI&ML)
+- Tech Avishkar 2.0 – 24-Hour Hackathon (IEEE & IET)
+
+CONTACT:
+Email: rachanavnv55@gmail.com  
+Phone: +91 8073633608  
+LinkedIn: https://www.linkedin.com/in/rachana-n-v-456377308
+
+IMPLEMENTATION NOTES:
+- Create reusable components for sections
+- Use smooth scrolling navigation
+- Add subtle hover effects and reveal animations
+- Keep layout and flow similar to the reference portfolio
+- Ensure content is clean, professional, and recruiter-friendly
+- Output full working Next.js project code
+
+Generate the complete project.
